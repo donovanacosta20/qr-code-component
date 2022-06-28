@@ -5,15 +5,12 @@
 
     --primary--color--text--darkBlue: hsl(218, 44%, 22%);
     --second--color--text--GrayishBlue: hsl(220, 15%, 55%);
-
-
 }
 
 * {
     margin: 0;
     padding: 0;
 }
-
 
 body {
     background-color: var(--second--color--ligthGray);
